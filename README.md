@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alfianpradana04
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Frontend Developing
+- 📫 Reach me on pradanaalfian@gmail.com
